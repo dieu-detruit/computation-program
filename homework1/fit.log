@@ -1,0 +1,19 @@
+
+
+*******************************************************************************
+Tue Oct  3 18:02:14 2017
+
+
+FIT:    data read from 'experiment.txt' using 1:2
+        format = x:z
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + b
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'b' is zero.
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.2231096600e+15   0.00e+00  1.07e+06    1.000000e+01   1.000000e-30
+BREAK: Singular matrix in Invert_RtR
